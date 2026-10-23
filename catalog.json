@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "updatedAt": "2026-10-23T17:54:25.050Z",
+  "updatedAt": "2026-10-23T18:29:57.692Z",
   "maps": [
     {
       "id": "bezmyatezhnyy-mir",
@@ -101,8 +101,8 @@
       ],
       "logo": {
         "url": "maps/azart-vselennoy/logo.webp",
-        "sha1": "581e87293dcf7386fb3234fdd4ad2addb33187a9",
-        "size": 31920
+        "sha1": "785265d3f4dee80d9d219004091d84c413099f13",
+        "size": 30926
       },
       "package": {
         "url": "https://github.com/munfizych1337/yst-maps/releases/download/azart-vselennoy-v1.0.0/azart-vselennoy-1.0.0.zip",
