@@ -1,0 +1,45 @@
+{
+  "schema": 1,
+  "updatedAt": "2026-10-23T17:49:50.236Z",
+  "maps": [
+    {
+      "id": "azart-vselennoy",
+      "title": "Азарт Вселенной",
+      "synopsis": "Азарт Вселенной — Сюжетная карта на одного игрока в жанре антиутопии, продолжающая события карты Безмятежный Мир 2: Забвение. Вы играете за главного героя Мелана, который в прошлом стер всю вселенную... Но попал в другую, новую, где никто о вас даже и слова не слышал... А может мы просто мало знаем что-то?",
+      "accent": "#9b7bff",
+      "access": "free",
+      "version": "1.0.0",
+      "minecraft": "1.19.2",
+      "forge": "43.5.0",
+      "changelog": "release",
+      "cover": {
+        "url": "maps/azart-vselennoy/cover.webp",
+        "sha1": "d333207bc480c3d15d562f5ed42f64f6a0485a63",
+        "size": 49758
+      },
+      "screenshots": [
+        {
+          "url": "maps/azart-vselennoy/screenshots/1.webp",
+          "sha1": "ed0e29482f0007d84502944017aba970bbb82fab",
+          "size": 39822
+        },
+        {
+          "url": "maps/azart-vselennoy/screenshots/2.webp",
+          "sha1": "800b3f622f5fb625e749092c7abd8adf9938fef6",
+          "size": 43634
+        }
+      ],
+      "logo": {
+        "url": "maps/azart-vselennoy/logo.webp",
+        "sha1": "581e87293dcf7386fb3234fdd4ad2addb33187a9",
+        "size": 31920
+      },
+      "package": {
+        "url": "https://github.com/munfizych1337/yst-maps/releases/download/azart-vselennoy-v1.0.0/azart-vselennoy-1.0.0.zip",
+        "sha1": "dfb05b6ba1857adadd911eafead2b04207108586",
+        "size": 1321666212
+      },
+      "releasedAt": "2026-10-23T17:49:50.236Z"
+    }
+  ]
+}
