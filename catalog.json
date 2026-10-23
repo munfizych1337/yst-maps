@@ -1,7 +1,42 @@
 {
   "schema": 1,
-  "updatedAt": "2026-10-23T17:54:12.467Z",
+  "updatedAt": "2026-10-23T17:54:18.839Z",
   "maps": [
+    {
+      "id": "bezmyatezhnyy-mir",
+      "title": "Безмятежный Мир",
+      "synopsis": "Безмятежный Мир - это линейная сюжетная карта, в которой вы попадете в потусторонний мир, неизвестным для вас способом. На карте присутствуют красивые и проработанные локации, диалоги, и многое что предстоит увидеть, карта не особо длинная и не слишком короткая. Играть можно как одному так и с компанией.",
+      "accent": "#8fd1a8",
+      "access": "free",
+      "version": "1.0.0",
+      "minecraft": "1.20.1",
+      "forge": "47.4.28",
+      "changelog": "release",
+      "cover": {
+        "url": "maps/bezmyatezhnyy-mir/cover.webp",
+        "sha1": "d8a83ee1b2c4f201565d22034bf046efd89f7209",
+        "size": 24476
+      },
+      "screenshots": [
+        {
+          "url": "maps/bezmyatezhnyy-mir/screenshots/1.webp",
+          "sha1": "64a1bd560b0f88d20a24294f3d3942d3d9298605",
+          "size": 39462
+        },
+        {
+          "url": "maps/bezmyatezhnyy-mir/screenshots/2.webp",
+          "sha1": "b91717191044f84e0a9927cf62a1aa8e916f0499",
+          "size": 37758
+        }
+      ],
+      "package": {
+        "url": "https://github.com/munfizych1337/yst-maps/releases/download/bezmyatezhnyy-mir-v1.0.0/bezmyatezhnyy-mir-1.0.0.zip",
+        "sha1": "b25cbe7c77cf8786303d19ea0bef96a2cb66b491",
+        "size": 79437416
+      },
+      "releasedAt": "2026-10-23T17:50:09.751Z",
+      "order": 1
+    },
     {
       "id": "azart-vselennoy",
       "title": "Азарт Вселенной",
@@ -41,40 +76,6 @@
       },
       "releasedAt": "2026-10-23T17:49:50.236Z",
       "order": 3
-    },
-    {
-      "id": "bezmyatezhnyy-mir",
-      "title": "Безмятежный Мир",
-      "synopsis": "Безмятежный Мир - это линейная сюжетная карта, в которой вы попадете в потусторонний мир, неизвестным для вас способом. На карте присутствуют красивые и проработанные локации, диалоги, и многое что предстоит увидеть, карта не особо длинная и не слишком короткая. Играть можно как одному так и с компанией.",
-      "accent": "#8fd1a8",
-      "access": "free",
-      "version": "1.0.0",
-      "minecraft": "1.20.1",
-      "forge": "47.4.28",
-      "changelog": "release",
-      "cover": {
-        "url": "maps/bezmyatezhnyy-mir/cover.webp",
-        "sha1": "d8a83ee1b2c4f201565d22034bf046efd89f7209",
-        "size": 24476
-      },
-      "screenshots": [
-        {
-          "url": "maps/bezmyatezhnyy-mir/screenshots/1.webp",
-          "sha1": "64a1bd560b0f88d20a24294f3d3942d3d9298605",
-          "size": 39462
-        },
-        {
-          "url": "maps/bezmyatezhnyy-mir/screenshots/2.webp",
-          "sha1": "b91717191044f84e0a9927cf62a1aa8e916f0499",
-          "size": 37758
-        }
-      ],
-      "package": {
-        "url": "https://github.com/munfizych1337/yst-maps/releases/download/bezmyatezhnyy-mir-v1.0.0/bezmyatezhnyy-mir-1.0.0.zip",
-        "sha1": "b25cbe7c77cf8786303d19ea0bef96a2cb66b491",
-        "size": 79437416
-      },
-      "releasedAt": "2026-10-23T17:50:09.751Z"
     },
     {
       "id": "bezmyatezhnyy-mir-zabvenie",
