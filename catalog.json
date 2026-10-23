@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "updatedAt": "2026-10-23T17:51:17.633Z",
+  "updatedAt": "2026-10-23T17:54:12.467Z",
   "maps": [
     {
       "id": "azart-vselennoy",
@@ -39,7 +39,8 @@
         "sha1": "dfb05b6ba1857adadd911eafead2b04207108586",
         "size": 1321666212
       },
-      "releasedAt": "2026-10-23T17:49:50.236Z"
+      "releasedAt": "2026-10-23T17:49:50.236Z",
+      "order": 3
     },
     {
       "id": "bezmyatezhnyy-mir",
