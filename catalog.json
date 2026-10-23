@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "updatedAt": "2026-10-23T17:54:18.839Z",
+  "updatedAt": "2026-10-23T17:54:25.050Z",
   "maps": [
     {
       "id": "bezmyatezhnyy-mir",
@@ -36,6 +36,41 @@
       },
       "releasedAt": "2026-10-23T17:50:09.751Z",
       "order": 1
+    },
+    {
+      "id": "bezmyatezhnyy-mir-zabvenie",
+      "title": "Безмятежный Мир: Забвение",
+      "synopsis": "Безмятежный Мир: Забвение - это прямой сиквел карты Безмятежный Мир. Эта карта покажет вам историю на целый час, в которой вы продолжаете историю лора главного героя Мелана. На карте присутствуют красивые локации, новые живые NPC и многое другое. Карта поддерживает мультиплеер.",
+      "accent": "#6fb3b8",
+      "access": "free",
+      "version": "1.0.0",
+      "minecraft": "1.20.1",
+      "forge": "47.4.28",
+      "changelog": "release",
+      "cover": {
+        "url": "maps/bezmyatezhnyy-mir-zabvenie/cover.webp",
+        "sha1": "e8d152441cc7c7213f40c1f1b177821054ad19f8",
+        "size": 19202
+      },
+      "screenshots": [
+        {
+          "url": "maps/bezmyatezhnyy-mir-zabvenie/screenshots/1.webp",
+          "sha1": "465eae068efc4f878fba6b372207caa3ee12540c",
+          "size": 50300
+        },
+        {
+          "url": "maps/bezmyatezhnyy-mir-zabvenie/screenshots/2.webp",
+          "sha1": "bb1e9abdee842ddc86231dcccf2f1aead592a1d2",
+          "size": 11014
+        }
+      ],
+      "package": {
+        "url": "https://github.com/munfizych1337/yst-maps/releases/download/bezmyatezhnyy-mir-zabvenie-v1.0.0/bezmyatezhnyy-mir-zabvenie-1.0.0.zip",
+        "sha1": "dffbd052aecdc0816f4e069083e631c7d35468bc",
+        "size": 579556442
+      },
+      "releasedAt": "2026-10-23T17:51:17.633Z",
+      "order": 2
     },
     {
       "id": "azart-vselennoy",
@@ -76,40 +111,6 @@
       },
       "releasedAt": "2026-10-23T17:49:50.236Z",
       "order": 3
-    },
-    {
-      "id": "bezmyatezhnyy-mir-zabvenie",
-      "title": "Безмятежный Мир: Забвение",
-      "synopsis": "Безмятежный Мир: Забвение - это прямой сиквел карты Безмятежный Мир. Эта карта покажет вам историю на целый час, в которой вы продолжаете историю лора главного героя Мелана. На карте присутствуют красивые локации, новые живые NPC и многое другое. Карта поддерживает мультиплеер.",
-      "accent": "#6fb3b8",
-      "access": "free",
-      "version": "1.0.0",
-      "minecraft": "1.20.1",
-      "forge": "47.4.28",
-      "changelog": "release",
-      "cover": {
-        "url": "maps/bezmyatezhnyy-mir-zabvenie/cover.webp",
-        "sha1": "e8d152441cc7c7213f40c1f1b177821054ad19f8",
-        "size": 19202
-      },
-      "screenshots": [
-        {
-          "url": "maps/bezmyatezhnyy-mir-zabvenie/screenshots/1.webp",
-          "sha1": "465eae068efc4f878fba6b372207caa3ee12540c",
-          "size": 50300
-        },
-        {
-          "url": "maps/bezmyatezhnyy-mir-zabvenie/screenshots/2.webp",
-          "sha1": "bb1e9abdee842ddc86231dcccf2f1aead592a1d2",
-          "size": 11014
-        }
-      ],
-      "package": {
-        "url": "https://github.com/munfizych1337/yst-maps/releases/download/bezmyatezhnyy-mir-zabvenie-v1.0.0/bezmyatezhnyy-mir-zabvenie-1.0.0.zip",
-        "sha1": "dffbd052aecdc0816f4e069083e631c7d35468bc",
-        "size": 579556442
-      },
-      "releasedAt": "2026-10-23T17:51:17.633Z"
     }
   ]
 }
