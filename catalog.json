@@ -30,7 +30,10 @@
         }
       ],
       "package": {
-        "url": "https://github.com/munfizych1337/yst-maps/releases/download/bezmyatezhnyy-mir-v1.0.0/bezmyatezhnyy-mir-1.0.0.zip",
+        "url": "https://yst-maps.akkirraiii1337.workers.dev/maps/bezmyatezhnyy-mir/1.0.0/bezmyatezhnyy-mir-1.0.0.zip",
+        "mirrors": [
+          "https://github.com/munfizych1337/yst-maps/releases/download/bezmyatezhnyy-mir-v1.0.0/bezmyatezhnyy-mir-1.0.0.zip"
+        ],
         "sha1": "b25cbe7c77cf8786303d19ea0bef96a2cb66b491",
         "size": 79437416
       },
@@ -65,7 +68,10 @@
         }
       ],
       "package": {
-        "url": "https://github.com/munfizych1337/yst-maps/releases/download/bezmyatezhnyy-mir-zabvenie-v1.0.0/bezmyatezhnyy-mir-zabvenie-1.0.0.zip",
+        "url": "https://yst-maps.akkirraiii1337.workers.dev/maps/bezmyatezhnyy-mir-zabvenie/1.0.0/bezmyatezhnyy-mir-zabvenie-1.0.0.zip",
+        "mirrors": [
+          "https://github.com/munfizych1337/yst-maps/releases/download/bezmyatezhnyy-mir-zabvenie-v1.0.0/bezmyatezhnyy-mir-zabvenie-1.0.0.zip"
+        ],
         "sha1": "dffbd052aecdc0816f4e069083e631c7d35468bc",
         "size": 579556442
       },
@@ -105,7 +111,10 @@
         "size": 30926
       },
       "package": {
-        "url": "https://github.com/munfizych1337/yst-maps/releases/download/azart-vselennoy-v1.0.0/azart-vselennoy-1.0.0.zip",
+        "url": "https://yst-maps.akkirraiii1337.workers.dev/maps/azart-vselennoy/1.0.0/azart-vselennoy-1.0.0.zip",
+        "mirrors": [
+          "https://github.com/munfizych1337/yst-maps/releases/download/azart-vselennoy-v1.0.0/azart-vselennoy-1.0.0.zip"
+        ],
         "sha1": "dfb05b6ba1857adadd911eafead2b04207108586",
         "size": 1321666212
       },
