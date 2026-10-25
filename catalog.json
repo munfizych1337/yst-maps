@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "updatedAt": "2026-10-23T18:29:57.692Z",
+  "updatedAt": "2026-10-25T02:14:12.822Z",
   "maps": [
     {
       "id": "bezmyatezhnyy-mir",
@@ -119,7 +119,17 @@
         "size": 1321666212
       },
       "releasedAt": "2026-10-23T17:49:50.236Z",
-      "order": 3
+      "order": 3,
+      "trailer": {
+        "url": "https://youtu.be/AoWFQ0RUA1U",
+        "videoId": "AoWFQ0RUA1U",
+        "clips": [
+          18,
+          51,
+          82,
+          101
+        ]
+      }
     }
   ]
 }

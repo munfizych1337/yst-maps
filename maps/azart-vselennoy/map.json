@@ -8,5 +8,6 @@
   "version": "1.0.0",
   "minecraft": "1.19.2",
   "forge": "43.5.0",
-  "changelog": "release"
+  "changelog": "release",
+  "trailer": { "url": "https://youtu.be/AoWFQ0RUA1U", "clips": ["0:18", "0:51", "1:22", "1:41"] }
 }
